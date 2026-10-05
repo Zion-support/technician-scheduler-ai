@@ -1,18 +1,18 @@
-# Zion App Network — Interlinks
+# 🌐 Zion AI App Network
 
-**This app:** Technician Scheduler AI · https://ziontechgroup.com/technician-scheduler-ai/
+This app is part of the **Zion AI App Network** — 850+ interlinked AI apps by Zion Tech Group.
 
-## Batch 49 — AI Field Service & Workforce Suite
-- [field-service-dispatch-ai](https://github.com/Zion-support/field-service-dispatch-ai) — https://ziontechgroup.com/field-service-dispatch-ai/
-- [fe-ticket-triage](https://github.com/Zion-support/fe-ticket-triage) — https://ziontechgroup.com/fe-ticket-triage/
-- [technician-scheduler-ai](https://github.com/Zion-support/technician-scheduler-ai) — https://ziontechgroup.com/technician-scheduler-ai/
-- [field-workforce-analytics](https://github.com/Zion-support/field-workforce-analytics) — https://ziontechgroup.com/field-workforce-analytics/
-- [onsite-support-copilot](https://github.com/Zion-support/onsite-support-copilot) — https://ziontechgroup.com/onsite-support-copilot/
-- [service-sla-tracker](https://github.com/Zion-support/service-sla-tracker) — https://ziontechgroup.com/service-sla-tracker/
+## 🔗 Network links
+- Network hub: https://ziontechgroup.com/zion-app-network/
+- Latest updates: https://github.com/Zion-support/zion-app-network/blob/main/APP_NETWORK_LATEST.md
+- Index: https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX-BATCHES-76-91.md
+- **Free Discovery (2 min, always free):** https://ziontechgroup.com/discovery/
 
-## Network hub
-- Hub repo: https://github.com/Zion-support/zion-app-network
-- Full index: [APPS_INDEX.md](https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md) · [CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Batch 48 (AI Data Engineering): https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH48.md
+## 🧑‍💻 Batch 91 — Developer Productivity & Operations AI
+- [SQL Query Explainer](https://github.com/Zion-support/sql-query-explainer) — https://ziontechgroup.com/sql-query-explainer/
+- Technician Scheduler AI (this repo)
+- [AI Code Assistant](https://github.com/Zion-support/zion-ai-code-assistant) — https://ziontechgroup.com/zion-ai-code-assistant/
+- [Agent Observability](https://github.com/Zion-support/zion-agent-observability) — https://ziontechgroup.com/zion-agent-observability/
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch91-oct05.html
 
-— © 2026 Zion Tech Group · https://ziontechgroup.com
+Contact: commercial@ziontechgroup.com · https://ziontechgroup.com
